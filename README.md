@@ -1,4 +1,8 @@
 # Alsharq-Task
+
+## NOTE
+I had to use expo in order to save time, I faced some serious and unexpected issues caused by android studio, java and gradle on my local machine.
+
 ## screens
 this is a simple project with two screens:
 - home : fetches a list of posts from https://jsonplaceholder.typicode.com/posts
